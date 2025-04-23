@@ -1,0 +1,11 @@
+.Footer{
+    padding: 58px 110px;
+    height: auto;
+    align-items: center;
+}
+
+.socMedia{
+    width: 130px;
+    align-items: center;
+    cursor: pointer;
+}

@@ -1,0 +1,20 @@
+.Map-info{
+    background-color: white;
+    width: 405px;
+    padding: 56px 80px;
+}
+
+.Map-title{
+    width: 163px;
+}
+
+.Map-back{
+    height: 400px;
+    background-image: url(../../assets/images/Map.png);
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+.Map-back{
+    padding-top: 95px;
+}

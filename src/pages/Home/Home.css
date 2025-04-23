@@ -1,0 +1,14 @@
+.cards-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Steps h1{
+    padding-bottom: 72px;
+}
+
+.indentation{
+    padding-left: 110px;
+    padding-right: 110px;
+}
+
